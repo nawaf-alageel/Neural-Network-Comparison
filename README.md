@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # 📊 Comparative Analysis of Feedforward, Convolutional, and Recurrent Neural Networks on Dataset Performance
 
 ## 📄 Overview
